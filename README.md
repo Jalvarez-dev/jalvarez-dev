@@ -1,15 +1,27 @@
+<!-- TYPING EFFECT HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Engineer;Scalable+Systems+Architect;Startup-Minded+Developer;Node.js+%7C+Python+Ecosystem" />
+</p>
+
 <h1 align="center">Jose Luis Alvarez Escobar</h1>
-<h3 align="center">Backend Engineer • Scalable Systems • Startup Mindset</h3>
+
+<p align="center">
+  Backend Engineer building scalable APIs and startup-ready systems
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/jalvarez-dev">
     <img src="https://img.shields.io/badge/GitHub-jalvarez--dev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/YouTube-Tech_Channel-FF0000?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
@@ -17,42 +29,35 @@
 
 ## 🚀 About Me
 
-Backend-focused developer passionate about building scalable systems and startup-ready products.
+Backend-focused developer passionate about building scalable systems and startup-oriented products.
 
 I specialize in:
 
 - Designing modular backend architectures  
 - Building RESTful APIs  
-- Creating maintainable production-ready systems  
-- Turning ideas into structured technical products  
+- Creating production-ready backend systems  
+- Structuring SaaS-ready applications  
+- Applying clean architecture principles  
 
-My main ecosystem is **Node.js and Python**, while also working with frontend technologies when product requirements demand it.
+My main ecosystem is **Node.js & Python**, with complementary frontend and DevOps fundamentals.
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,react,docker,git" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,react,docker,git" />
 </p>
-
-**Backend:** Node.js • Express • NestJS • FastAPI  
-**Frontend:** React  
-**Cross-platform:** Flet • Reflex  
 
 ---
 
 # 🏗 Project Architecture & Organization
 
-I maintain a structured and professional repository organization.
+Structured repositories with clear technical purpose.
 
 ---
 
 ## 📦 Backend Projects
-
-Core production-oriented backend systems:
 
 - [`api-auth-service`](https://github.com/jalvarez-dev/api-auth-service)
 - [`api-user-management`](https://github.com/jalvarez-dev/api-user-management)
@@ -62,8 +67,6 @@ Core production-oriented backend systems:
 
 ## 🧠 Experiments
 
-Architecture exploration and performance labs:
-
 - [`lab-fastapi-performance`](https://github.com/jalvarez-dev/lab-fastapi-performance)
 - [`lab-nest-architecture`](https://github.com/jalvarez-dev/lab-nest-architecture)
 - [`lab-auth-patterns`](https://github.com/jalvarez-dev/lab-auth-patterns)
@@ -71,8 +74,6 @@ Architecture exploration and performance labs:
 ---
 
 ## 🚀 Startup Ideas
-
-Product-oriented SaaS concepts:
 
 - [`saas-invoice-platform`](https://github.com/jalvarez-dev/saas-invoice-platform)
 - [`saas-community-app`](https://github.com/jalvarez-dev/saas-community-app)
@@ -82,37 +83,51 @@ Product-oriented SaaS concepts:
 
 ## 🧩 Boilerplates
 
-Reusable structured templates:
-
 - [`boilerplate-nest-clean-architecture`](https://github.com/jalvarez-dev/boilerplate-nest-clean-architecture)
 - [`boilerplate-fastapi-ddd`](https://github.com/jalvarez-dev/boilerplate-fastapi-ddd)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jalvarez-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarez-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jalvarez-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jalvarez-dev&style=for-the-badge&color=0A66C2" />
+</p>
+
+---
+
+# 🔁 Previous GitHub Account
+
+Earlier public work available at:
+
+➡ **[hackanonimous](https://github.com/hackanonimous)**
 
 ---
 
 # 🎯 Professional Focus
 
 - Scalable backend architecture  
-- API-first development  
-- Clean code & maintainability  
-- SaaS-oriented product development  
-- Startup-ready systems  
-
----
-
-# 📈 Currently Improving
-
-- System Design  
-- Clean Architecture  
-- SaaS scalability strategies  
-- DevOps fundamentals  
-
----
-
-# 🔁 Previous GitHub Account
-
-You can find my earlier public work here:
-
-➡ **[hackanonimous](https://github.com/hackanonimous)**
+- API-first systems  
+- SaaS product development  
+- Startup-ready technical foundations  
+- Clean and maintainable code  
 
 ---
 
