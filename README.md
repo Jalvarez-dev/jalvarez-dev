@@ -1,16 +1,56 @@
-## Hi there 👋
+# Jose Luis Alvarez Escobar
 
-<!--
-**Jalvarez-dev/jalvarez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer building scalable APIs and systems | Node & Python | Startup mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a backend-focused developer passionate about building scalable systems and startup-ready products.
+
+I specialize in designing clean architectures, RESTful APIs, and modular backend systems using the Node.js and Python ecosystems.
+
+While backend is my main strength, I also work with frontend technologies and have basic experience in DevOps and mobile-oriented solutions.
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
+- Node.js
+- Express
+- NestJS
+- Python
+- FastAPI
+
+### Frontend
+- React
+
+### Cross-platform / UI
+- Flet
+- Reflex
+
+---
+
+## 🏗️ What I Focus On
+
+- Scalable backend architecture
+- Clean code and maintainable systems
+- API-first development
+- Startup product development
+- Rapid prototyping with production mindset
+
+---
+
+## 📌 Currently
+
+- Building structured and professional repositories
+- Improving system design and architecture skills
+- Developing startup-oriented backend solutions
+
+---
+
+## 📫 Contact
+
+- Email: (your professional email here)
+- LinkedIn: (optional)
