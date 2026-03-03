@@ -17,10 +17,10 @@
   <a href="https://github.com/jalvarez-dev">
     <img src="https://img.shields.io/badge/GitHub-jalvarez--dev-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/jalvarez-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_YOUTUBE_URL">
+  <a href="https://www.youtube.com/@jalvarezdev">
     <img src="https://img.shields.io/badge/YouTube-Tech_Channel-FF0000?style=for-the-badge&logo=youtube" />
   </a>
 </p>
@@ -133,5 +133,5 @@ Earlier public work available at:
 
 # 📫 Contact
 
-- 📧 Email: your@email.com  
+- 📧 Email: esi.segurity@gmail.com - jalvarezdev90@gmail.com
 - 🌍 Location: Peru  
